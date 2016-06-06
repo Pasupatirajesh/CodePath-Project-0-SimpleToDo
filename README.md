@@ -9,4 +9,5 @@ The second activity is the "EditScreen" activity that lets the user do the actua
 
 The Following Gif show's the working of the first screen of the app.
 ![alt tag] (https://github.com/Pasupatirajesh/CodePath-Project-0-SimpleToDo/blob/master/output_dXf5sT.gif)
+![alt tag] (https://github.com/Pasupatirajesh/CodePath-Project-0-SimpleToDo/blob/master/output_02tgqD.gif)
 
