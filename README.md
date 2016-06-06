@@ -8,5 +8,4 @@ Currently the text items are stored and retrived from a .txt file that is stored
 The second activity is the "EditScreen" activity that lets the user do the actual editing to a previously-saved item.
 
 The Following Gif show's the working of the first screen of the app.
-![alt tag](https://raw.githubusercontent.com/pasupatirajesh/CodePath-Project-0-SimpleToDo/master/README.md/to/img.png
-
+![alt tag] (https://github.com/Pasupatirajesh/CodePath-Project-0-SimpleToDo/blob/master/output_dXf5sT.gif)
